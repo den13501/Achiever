@@ -1,7 +1,9 @@
 ## Interface: 11200
 ## Title: Achiever
+## Title-zhTW: Achiever(成就系統)
 ## Author: TsAah
 ## Notes: Achievements for vanilla
+## Notes-zhTW: 無印魔獸專用成就系統插件
 ## Version: 0.1
 ## X-Category: Interface Enhancements
 ## SavedVariables: achieverDB
